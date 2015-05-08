@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Emmet",
+		"Git",
+		"HypnotoadSVN",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SublimeCodeIntel",
+		"SVN",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

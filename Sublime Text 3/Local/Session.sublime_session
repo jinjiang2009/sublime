@@ -1,0 +1,1313 @@
+{
+	"folder_history":
+	[
+		"/F/www/dian/project/application",
+		"/F/www/dian/app",
+		"/G/燕十八PHP高性能架构/PHP底层分析/php-5.3.17",
+		"/F/www/bootstrap",
+		"/F/www/angularjs",
+		"/F/www/www"
+	],
+	"last_version": 3083,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 495.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hsdf",
+						"hash_update_file"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 164.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"svn",
+						"Preferences: SVN Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"settin",
+						"Preferences: Settings - User"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"sn",
+						"Snippet: test"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"g",
+						"Git: Init"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"keyde",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"sideb",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 286.0,
+				"history":
+				[
+					"svn",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/www/dian/app/application/controllers/wrong.php",
+				"/F/www/dian/app/application/config/routes.php",
+				"/F/www/dian/app/application/controllers/base.php",
+				"/F/www/dian/app/application/controllers/ask.php",
+				"/F/www/dian/app/application/controllers/home_page.php",
+				"/F/www/dian/system/core/CodeIgniter.php",
+				"/F/www/dian/ask.php",
+				"/F/www/dian/app/application/models/question_model.php",
+				"/F/www/dian/app/application/models/contract_model.php",
+				"/F/www/dian/app/application/controllers/contract.php",
+				"/E/备份/5.4/project/application/config/database.php",
+				"/F/www/dian/app/application/config/database.php",
+				"/F/www/dian/home.php",
+				"/F/www/dian/system/core/Common.php",
+				"/F/www/dian/app/application/config/constants.php",
+				"/F/www/dian/home_page.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430726922/SVN",
+				"/C/Windows/System32/Drivers/etc/hosts",
+				"/E/wamp/bin/apache/Apache2.2.21/conf/extra/httpd-vhosts.conf",
+				"/J/华贸/代码/www/common/trunk/config/condenastadmin.config.php",
+				"/G/燕十八PHP高性能架构/app接口/Response/xml.php",
+				"/G/燕十八PHP高性能架构/app接口/Response/json.php",
+				"/F/www/dian/project/application/views/default/result.php",
+				"/F/www/dian/project/application/views/default/js/common.js",
+				"/F/www/dian/project/application/views/default/home.php",
+				"/E/nodejs/main.js",
+				"/F/www/dian/project/application/controllers/m_data.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430286545/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187589/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187551/SVN",
+				"/F/www/dian/project/application/controllers/result.php",
+				"/F/www/dian/project/application/models/contract_model.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187411/SVN",
+				"/F/www/dian/project/application/models/data_model.php",
+				"/F/www/dian/project/application/models/login_model.php",
+				"/F/www/dian/project/application/controllers/login.php",
+				"/F/www/dian/project/application/controllers/lawyer.php",
+				"/F/www/dian/project/application/models/laywer_model.php",
+				"/F/www/dian/project/application/models/enterprise_model.php",
+				"/F/www/dian/project/application/views/default/privatelawyer.php",
+				"/F/www/dian/project/application/controllers/privatelawyer.php",
+				"/F/www/dian/project/application/views/bottom/product.php",
+				"/F/www/dian/project/application/views/default/articleindex.php",
+				"/F/www/dian/project/application/views/default/lawyer_article.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429865619/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429864853/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429694070/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588086/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588011/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588003/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429587584/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429583307/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429499068/SVN",
+				"/F/www/dian/project/application/views/default/lawyer.php",
+				"/F/www/dian/project/application/views/default/local.php",
+				"/F/www/dian/project/application/controllers/local.php",
+				"/F/www/dian/project/application/controllers/home_page.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085365/SVN",
+				"/F/www/dian/project/application/controllers/home.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085230/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085224/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429000847/SVN",
+				"/G/燕十八PHP高性能架构/nginx/aliyun/sh-1.4.1/php/install_httpd_php-5.5.7.sh",
+				"/G/燕十八PHP高性能架构/nginx/aliyun/sh-1.4.1/install.sh",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428991929/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428986120/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983706/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983968/SVN",
+				"/F/www/dian/project/application/test.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984710/SVN",
+				"/F/www/dian/project/application/views/default/css/common - 副本.css",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983816/SVN",
+				"/F/www/dian/project/application/views/default/js/common - 副本.js",
+				"/F/www/dian/project/application/views/default/register2.php",
+				"/F/www/dian/project/application/controllers/register.php",
+				"/F/www/dian/project/application/controllers/frim.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/SVN.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/SVN/Default (Windows).sublime-keymap",
+				"/F/www/dian/project/application/views/default/js/register.js",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984959/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984797/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983899/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/F/www/dian/project/application/views/default/local - 副本 (2).php",
+				"/F/www/dian/project/application/views/default/local - 副本.php",
+				"/F/www/dian/project/application/models/m_data_model.php",
+				"/F/www/dian/project/application/controllers/order.php",
+				"/F/www/dian/project/application/views/default/js/formValidator-4.1.1.js",
+				"/F/www/dian/project/application/views/default/js/themes/126/style/style.css",
+				"/F/www/dian/project/application/views/default/css/ustyle.css",
+				"/F/www/dian/project/application/views/default/register.php",
+				"/F/www/dian/project/application/views/local.php",
+				"/F/www/dian/project/application/models/judgement_model.php",
+				"/F/www/dian/project/application/views/default/article1.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-snippet",
+				"/F/www/dian/project/application/controllers/help.php",
+				"/F/www/dian/project/application/views/bottom/site_info35.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/F/www/dian/project/application/header.php",
+				"/F/www/dian/project/application/log.txt",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/www/dian/project/application/cache/test.php",
+				"/F/www/dian/project/application/views/common.css",
+				"/F/www/dian/project/application/views/default/css/common.css",
+				"/F/www/dian/project/application/controllers/case_bid.php"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 150.0,
+				"where_history":
+				[
+					"F:\\www\\dian\\project\\application\\controllers"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"333",
+					"result()",
+					"test()",
+					"mkdir",
+					"sh-1.1.4",
+					"onlineCourse",
+					"华夏大数据法商联合会",
+					"localadd",
+					"首批",
+					"Strong",
+					"strong",
+					"noticeWrap",
+					"onFocusHtml",
+					"alert($html)",
+					"alert($html);",
+					"onFocusHtml",
+					"focus",
+					"showclass",
+					"focus",
+					"山东创鑫律师事务所",
+					"this"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 42.0
+			},
+			"input":
+			{
+				"height": 54.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"home_page",
+						"application\\controllers\\home_page.php"
+					],
+					[
+						"ask",
+						"application\\controllers\\ask.php"
+					],
+					[
+						"contract_mo",
+						"application\\models\\contract_model.php"
+					],
+					[
+						"ask.php",
+						"application\\controllers\\ask.php"
+					],
+					[
+						"base",
+						"controllers\\base.php"
+					],
+					[
+						"cassbid",
+						"controllers\\case_bid.php"
+					],
+					[
+						"caseadd.js",
+						"views\\default\\js\\caseadd.js"
+					],
+					[
+						"m_data",
+						"controllers\\m_data.php"
+					],
+					[
+						"home.php",
+						"views\\default\\home.php"
+					],
+					[
+						"common.js",
+						"views\\default\\js\\common.js"
+					],
+					[
+						"result.php",
+						"views\\default\\result.php"
+					],
+					[
+						"result",
+						"controllers\\result.php"
+					],
+					[
+						"lawyer_model",
+						"models\\laywer_model.php"
+					],
+					[
+						"lawyer",
+						"controllers\\lawyer.php"
+					],
+					[
+						"data_model",
+						"models\\data_model.php"
+					],
+					[
+						"pri",
+						"views\\default\\privatelawyer.php"
+					],
+					[
+						"enterprise_model",
+						"models\\enterprise_model.php"
+					],
+					[
+						"login_model",
+						"models\\login_model.php"
+					],
+					[
+						"lawyer_article.php",
+						"views\\default\\lawyer_article.php"
+					],
+					[
+						"article",
+						"views\\default\\articleindex.php"
+					],
+					[
+						"product",
+						"views\\bottom\\product.php"
+					],
+					[
+						"zend_vm_exec",
+						"Zend\\zend_vm_execute.h"
+					],
+					[
+						"lawyer_mode",
+						"models\\laywer_model.php"
+					],
+					[
+						"local",
+						"views\\default\\local.php"
+					],
+					[
+						"home",
+						"views\\default\\home.php"
+					],
+					[
+						"local-",
+						"views\\default\\local - 副本 (2).php"
+					],
+					[
+						"login_mode",
+						"models\\login_model.php"
+					],
+					[
+						"frim",
+						"controllers\\frim.php"
+					],
+					[
+						"register",
+						"controllers\\register.php"
+					],
+					[
+						"register2",
+						"views\\default\\register2.php"
+					],
+					[
+						"m_data_m",
+						"models\\m_data_model.php"
+					],
+					[
+						"con",
+						"models\\contract_model.php"
+					],
+					[
+						"order",
+						"controllers\\order.php"
+					],
+					[
+						"firm",
+						"controllers\\frim.php"
+					],
+					[
+						"ust",
+						"views\\default\\css\\ustyle.css"
+					],
+					[
+						"judgemen",
+						"models\\judgement_model.php"
+					],
+					[
+						"article1",
+						"views\\default\\article1.php"
+					],
+					[
+						"site_info35",
+						"views\\bottom\\site_info35.php"
+					],
+					[
+						"hel",
+						"controllers\\help.php"
+					],
+					[
+						"",
+						"log.txt"
+					],
+					[
+						"cas",
+						"controllers\\case_bid.php"
+					],
+					[
+						"css",
+						"views\\default\\css\\common.css"
+					],
+					[
+						"default/local.php",
+						"views\\default\\local.php"
+					],
+					[
+						"resul",
+						"controllers\\result.php"
+					],
+					[
+						"commo",
+						"views\\common.css"
+					],
+					[
+						"test",
+						"cache\\test.php"
+					],
+					[
+						"default/local",
+						"views\\default\\local.php"
+					],
+					[
+						"default/common.c",
+						"views\\default\\css\\common.css"
+					],
+					[
+						"common",
+						"views\\common.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 187.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 876.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hsdf",
+						"hash_update_file"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/www/dian/project/application/controllers/contract.php",
+					"settings":
+					{
+						"buffer_size": 6103,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/www/dian/project/application/controllers/app.php",
+					"settings":
+					{
+						"buffer_size": 4985,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/www/dian/project/application/models/contract_model.php",
+					"settings":
+					{
+						"buffer_size": 11248,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 164.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"svn",
+						"Preferences: SVN Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"settin",
+						"Preferences: Settings - User"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"sn",
+						"Snippet: test"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"g",
+						"Git: Init"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"keyde",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"sideb",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 286.0,
+				"history":
+				[
+					"svn",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/www/dian/project/application",
+				"/F/www/dian/project/application/config",
+				"/F/www/dian/project/application/controllers",
+				"/F/www/dian/project/application/models",
+				"/F/www/dian/project/application/views",
+				"/F/www/dian/project/application/views/default"
+			],
+			"file_history":
+			[
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430992717/SVN",
+				"/E/备份/4.20/controllers/home_page.php",
+				"/F/www/dian/project/application/models/login_model.php",
+				"/F/www/dian/project/application/controllers/home_page.php",
+				"/G/wamp/www/laravel/public/index.php",
+				"/E/备份/df_copy423_5.7.sql",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430962980/SVN",
+				"/F/www/dian/project/application/views/default/local.php",
+				"/F/www/dian/project/application/controllers/app.php",
+				"/G/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+				"/F/www/dian/project/application/views/default/home.php",
+				"/G/wamp/www/laravel/bootstrap/autoload.php",
+				"/C/Windows/System32/Drivers/etc/hosts",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430810171/SVN",
+				"/F/www/dian/project/application/models/app_model.php",
+				"/F/www/dian/project/application/controllers/law.php",
+				"/F/www/dian/system/core/Controller.php",
+				"/F/www/dian/project/application/models/law_model.php",
+				"/F/www/dian/project/application/views/default/n_eglish2.php",
+				"/F/www/dian/project/application/views/default/exam.php",
+				"/F/www/dian/project/application/views/default/practice.php",
+				"/F/www/dian/project/application/models/contract_model.php",
+				"/F/www/dian/project/application/controllers/course.php",
+				"/F/www/dian/project/application/views/templates/header.php",
+				"/F/www/dian/app/application/controllers/wrong.php",
+				"/F/www/dian/app/application/config/routes.php",
+				"/F/www/dian/app/application/controllers/base.php",
+				"/F/www/dian/app/application/controllers/ask.php",
+				"/F/www/dian/app/application/controllers/home_page.php",
+				"/F/www/dian/system/core/CodeIgniter.php",
+				"/F/www/dian/ask.php",
+				"/F/www/dian/app/application/models/question_model.php",
+				"/F/www/dian/app/application/models/contract_model.php",
+				"/F/www/dian/app/application/controllers/contract.php",
+				"/E/备份/5.4/project/application/config/database.php",
+				"/F/www/dian/app/application/config/database.php",
+				"/F/www/dian/home.php",
+				"/F/www/dian/system/core/Common.php",
+				"/F/www/dian/app/application/config/constants.php",
+				"/F/www/dian/home_page.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430726922/SVN",
+				"/E/wamp/bin/apache/Apache2.2.21/conf/extra/httpd-vhosts.conf",
+				"/J/华贸/代码/www/common/trunk/config/condenastadmin.config.php",
+				"/G/燕十八PHP高性能架构/app接口/Response/xml.php",
+				"/G/燕十八PHP高性能架构/app接口/Response/json.php",
+				"/F/www/dian/project/application/views/default/result.php",
+				"/F/www/dian/project/application/views/default/js/common.js",
+				"/E/nodejs/main.js",
+				"/F/www/dian/project/application/controllers/m_data.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430286545/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187589/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187551/SVN",
+				"/F/www/dian/project/application/controllers/result.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1430187411/SVN",
+				"/F/www/dian/project/application/models/data_model.php",
+				"/F/www/dian/project/application/controllers/login.php",
+				"/F/www/dian/project/application/controllers/lawyer.php",
+				"/F/www/dian/project/application/models/laywer_model.php",
+				"/F/www/dian/project/application/models/enterprise_model.php",
+				"/F/www/dian/project/application/views/default/privatelawyer.php",
+				"/F/www/dian/project/application/controllers/privatelawyer.php",
+				"/F/www/dian/project/application/views/bottom/product.php",
+				"/F/www/dian/project/application/views/default/articleindex.php",
+				"/F/www/dian/project/application/views/default/lawyer_article.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429865619/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429864853/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429694070/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588086/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588011/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429588003/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429587584/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429583307/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429499068/SVN",
+				"/F/www/dian/project/application/views/default/lawyer.php",
+				"/F/www/dian/project/application/controllers/local.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085365/SVN",
+				"/F/www/dian/project/application/controllers/home.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085230/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429085224/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1429000847/SVN",
+				"/G/燕十八PHP高性能架构/nginx/aliyun/sh-1.4.1/php/install_httpd_php-5.5.7.sh",
+				"/G/燕十八PHP高性能架构/nginx/aliyun/sh-1.4.1/install.sh",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428991929/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428986120/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983706/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983968/SVN",
+				"/F/www/dian/project/application/test.php",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984710/SVN",
+				"/F/www/dian/project/application/views/default/css/common - 副本.css",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983816/SVN",
+				"/F/www/dian/project/application/views/default/js/common - 副本.js",
+				"/F/www/dian/project/application/views/default/register2.php",
+				"/F/www/dian/project/application/controllers/register.php",
+				"/F/www/dian/project/application/controllers/frim.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/SVN.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/SVN/Default (Windows).sublime-keymap",
+				"/F/www/dian/project/application/views/default/js/register.js",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984959/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428984797/SVN",
+				"/c/users/jiang/appdata/local/temp/sublime-svn-1428983899/SVN",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/F/www/dian/project/application/views/default/local - 副本 (2).php",
+				"/F/www/dian/project/application/views/default/local - 副本.php",
+				"/F/www/dian/project/application/models/m_data_model.php",
+				"/F/www/dian/project/application/controllers/order.php",
+				"/F/www/dian/project/application/views/default/js/formValidator-4.1.1.js",
+				"/F/www/dian/project/application/views/default/js/themes/126/style/style.css",
+				"/F/www/dian/project/application/views/default/css/ustyle.css",
+				"/F/www/dian/project/application/views/default/register.php",
+				"/F/www/dian/project/application/views/local.php",
+				"/F/www/dian/project/application/models/judgement_model.php",
+				"/F/www/dian/project/application/views/default/article1.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-snippet",
+				"/F/www/dian/project/application/controllers/help.php",
+				"/F/www/dian/project/application/views/bottom/site_info35.php",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/F/www/dian/project/application/header.php",
+				"/F/www/dian/project/application/log.txt",
+				"/C/Users/jiang/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/F/www/dian/project/application/cache/test.php",
+				"/F/www/dian/project/application/views/common.css"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 150.0,
+				"where_history":
+				[
+					"F:\\www\\dian\\project\\application\\controllers"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"contract",
+					"popular",
+					"onlineCourse",
+					"333",
+					"result()",
+					"test()",
+					"mkdir",
+					"sh-1.1.4",
+					"onlineCourse",
+					"华夏大数据法商联合会",
+					"localadd",
+					"首批",
+					"Strong",
+					"strong",
+					"noticeWrap",
+					"onFocusHtml",
+					"alert($html)",
+					"alert($html);",
+					"onFocusHtml",
+					"focus",
+					"showclass",
+					"focus",
+					"山东创鑫律师事务所",
+					"this"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\www\\dian\\project\\application"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/www/dian/project/application/controllers/contract.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5506,
+										5506
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6255.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/www/dian/project/application/controllers/app.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4985,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										799,
+										809
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 755.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/www/dian/project/application/models/contract_model.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11248,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1298,
+										1306
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1503.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 42.0
+			},
+			"input":
+			{
+				"height": 54.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,659,190,105,1082",
+			"project": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"app",
+						"controllers\\app.php"
+					],
+					[
+						"contr",
+						"models\\contract_model.php"
+					],
+					[
+						"contra",
+						"controllers\\contract.php"
+					],
+					[
+						"login_mo",
+						"models\\login_model.php"
+					],
+					[
+						"home_page",
+						"controllers\\home_page.php"
+					],
+					[
+						"home.php",
+						"views\\default\\home.php"
+					],
+					[
+						"local",
+						"views\\default\\local.php"
+					],
+					[
+						"contract",
+						"models\\contract_model.php"
+					],
+					[
+						"english",
+						"views\\default\\n_eglish2.php"
+					],
+					[
+						"course",
+						"controllers\\course.php"
+					],
+					[
+						"header.php",
+						"views\\templates\\header.php"
+					],
+					[
+						"law_model.php",
+						"models\\law_model.php"
+					],
+					[
+						"law",
+						"controllers\\law.php"
+					],
+					[
+						"ask",
+						"application\\controllers\\ask.php"
+					],
+					[
+						"contract_mo",
+						"application\\models\\contract_model.php"
+					],
+					[
+						"ask.php",
+						"application\\controllers\\ask.php"
+					],
+					[
+						"base",
+						"controllers\\base.php"
+					],
+					[
+						"cassbid",
+						"controllers\\case_bid.php"
+					],
+					[
+						"caseadd.js",
+						"views\\default\\js\\caseadd.js"
+					],
+					[
+						"m_data",
+						"controllers\\m_data.php"
+					],
+					[
+						"common.js",
+						"views\\default\\js\\common.js"
+					],
+					[
+						"result.php",
+						"views\\default\\result.php"
+					],
+					[
+						"result",
+						"controllers\\result.php"
+					],
+					[
+						"lawyer_model",
+						"models\\laywer_model.php"
+					],
+					[
+						"lawyer",
+						"controllers\\lawyer.php"
+					],
+					[
+						"data_model",
+						"models\\data_model.php"
+					],
+					[
+						"pri",
+						"views\\default\\privatelawyer.php"
+					],
+					[
+						"enterprise_model",
+						"models\\enterprise_model.php"
+					],
+					[
+						"login_model",
+						"models\\login_model.php"
+					],
+					[
+						"lawyer_article.php",
+						"views\\default\\lawyer_article.php"
+					],
+					[
+						"article",
+						"views\\default\\articleindex.php"
+					],
+					[
+						"product",
+						"views\\bottom\\product.php"
+					],
+					[
+						"zend_vm_exec",
+						"Zend\\zend_vm_execute.h"
+					],
+					[
+						"lawyer_mode",
+						"models\\laywer_model.php"
+					],
+					[
+						"home",
+						"views\\default\\home.php"
+					],
+					[
+						"local-",
+						"views\\default\\local - 副本 (2).php"
+					],
+					[
+						"login_mode",
+						"models\\login_model.php"
+					],
+					[
+						"frim",
+						"controllers\\frim.php"
+					],
+					[
+						"register",
+						"controllers\\register.php"
+					],
+					[
+						"register2",
+						"views\\default\\register2.php"
+					],
+					[
+						"m_data_m",
+						"models\\m_data_model.php"
+					],
+					[
+						"con",
+						"models\\contract_model.php"
+					],
+					[
+						"order",
+						"controllers\\order.php"
+					],
+					[
+						"firm",
+						"controllers\\frim.php"
+					],
+					[
+						"ust",
+						"views\\default\\css\\ustyle.css"
+					],
+					[
+						"judgemen",
+						"models\\judgement_model.php"
+					],
+					[
+						"article1",
+						"views\\default\\article1.php"
+					],
+					[
+						"site_info35",
+						"views\\bottom\\site_info35.php"
+					],
+					[
+						"hel",
+						"controllers\\help.php"
+					],
+					[
+						"",
+						"log.txt"
+					],
+					[
+						"cas",
+						"controllers\\case_bid.php"
+					],
+					[
+						"css",
+						"views\\default\\css\\common.css"
+					],
+					[
+						"default/local.php",
+						"views\\default\\local.php"
+					],
+					[
+						"resul",
+						"controllers\\result.php"
+					],
+					[
+						"commo",
+						"views\\common.css"
+					],
+					[
+						"test",
+						"cache\\test.php"
+					],
+					[
+						"default/local",
+						"views\\default\\local.php"
+					],
+					[
+						"default/common.c",
+						"views\\default\\css\\common.css"
+					],
+					[
+						"common",
+						"views\\common.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 187.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
